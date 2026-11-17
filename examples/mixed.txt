@@ -1,0 +1,3 @@
+api​key = ACME TOKEN
+pаssword = hunter2
+path = C:—temp
